@@ -19,4 +19,4 @@ Develop a operational website to view UFO sightings around the United States. We
 •	Create CSS file to change website formatting for bootstrap and text alignment
 
 ![image](https://user-images.githubusercontent.com/89805399/150039383-3765d8c8-0778-4aec-b30c-d4fce240975e.png)
-![image](https://user-images.githubusercontent.com/89805399/150039388-d93202cb-ade8-426b-9824-b2e56bc950aa.png)
+
